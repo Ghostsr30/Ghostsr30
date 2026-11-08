@@ -18,6 +18,9 @@ Me chamo Luan Vedovoto, tenho 18 anos e curso Análise e Desenvolvimento de Sist
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luan-vedovoto-427666316/)
 
 
+<img align="right" alt="" height="120px" src="/src/killua.gif">
+
+
 <h3 align="left">My Stack ~</h3>
 
 <img 
